@@ -1,5 +1,5 @@
 # code-wars
 
-Real code challenges focused on improving skill and technique. Included in each file is the instructions and the solution.
+Real coding challenge that focus on improving skill and technique. Each file contains both the instructions for the problem and the solution I used to pass all of the tests.
 
 <img src="code-wars.JPG">
