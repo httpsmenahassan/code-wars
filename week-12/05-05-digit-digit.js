@@ -9,3 +9,9 @@
 // Note: The function accepts an integer and returns an integer.
 
 // Happy Coding!
+
+function squareDigits(num) {
+    const numberArray = num.toString().split('')
+    const squaredNumbers = numberArray.map(number => number ** 2)
+    return Number(squaredNumbers.join(''))
+}
